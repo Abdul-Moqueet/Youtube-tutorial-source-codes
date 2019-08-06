@@ -1,17 +1,3 @@
-School Management [Earth Network] part 3 .txt
-Earlier this year
-Jan 16
-I
-You shared an item
-Text
-School Management [Earth Network] part 3 .txt
-Can view
-Anyone with the link
-Jan 16
-I
-You uploaded an item
-Text
-School Management [Earth Network] part 3 .txt
 #include<stdio.h>
 #include<conio.h>
 #include<process.h>
